@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KareemAbdallah:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KareemAbdallah_jar</output-path>
+    <root id="archive" name="KareemAbdallah.jar">
+      <element id="module-output" name="MY16project" />
+    </root>
+  </artifact>
+</component>
